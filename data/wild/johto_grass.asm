@@ -1091,7 +1091,7 @@ JohtoGrassWildMons:
 	db 5, GEODUDE
 	db 6, TEDDIURSA
 	db 6, DUNSPARCE
-	db 7, DUNSPARCE
+	db 7, LARVITAR
 	; day
 	db 5, GEODUDE
 	db 5, ZUBAT
@@ -1099,7 +1099,7 @@ JohtoGrassWildMons:
 	db 6, ZUBAT
 	db 6, SANDSHREW
 	db 6, DUNSPARCE
-	db 7, DUNSPARCE
+	db 7, LARVITAR
 	; nite
 	db 5, GEODUDE
 	db 5, ZUBAT
@@ -1107,7 +1107,7 @@ JohtoGrassWildMons:
 	db 6, ZUBAT
 	db 6, SANDSHREW
 	db 6, DUNSPARCE
-	db 7, DUNSPARCE
+	db 7, LARVITAR
 
 	map_id DARK_CAVE_BLACKTHORN_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
@@ -1145,7 +1145,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, BELLSPROUT
 	; day
 	db 2, PIDGEY
 	db 2, SENTRET
@@ -1153,7 +1153,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, BELLSPROUT
 	; nite
 	db 2, HOOTHOOT
 	db 2, RATTATA
@@ -1161,7 +1161,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 2, RATTATA
 	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 3, BELLSPROUT
 
 	map_id ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
@@ -1172,7 +1172,7 @@ JohtoGrassWildMons:
 	db 5, PIDGEY
 	db 5, WEEDLE
 	db 4, HOPPIP
-	db 5, HOPPIP
+	db 5, POLIWAG
 	; day
 	db 4, PIDGEY
 	db 4, CATERPIE
@@ -1180,7 +1180,7 @@ JohtoGrassWildMons:
 	db 5, PIDGEY
 	db 5, WEEDLE
 	db 4, HOPPIP
-	db 5, HOPPIP
+	db 5, POLIWAG
 	; nite
 	db 5, SPINARAK
 	db 4, HOOTHOOT
@@ -1188,7 +1188,7 @@ JohtoGrassWildMons:
 	db 5, HOOTHOOT
 	db 5, ZUBAT
 	db 4, HOOTHOOT
-	db 5, HOOTHOOT
+	db 5, POLIWAG
 
 	map_id ROUTE_31
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
@@ -1199,7 +1199,7 @@ JohtoGrassWildMons:
 	db 6, PIDGEY
 	db 5, WEEDLE
 	db 5, HOPPIP
-	db 6, HOPPIP
+	db 6, MAREEP
 	; day
 	db 5, PIDGEY
 	db 5, CATERPIE
@@ -1207,15 +1207,15 @@ JohtoGrassWildMons:
 	db 6, PIDGEY
 	db 5, WEEDLE
 	db 5, HOPPIP
-	db 6, HOPPIP
+	db 6, MAREEP
 	; nite
-	db 5, SPINARAK
+	db 5, CATERPIE
 	db 5, POLIWAG
 	db 6, BELLSPROUT
 	db 6, HOOTHOOT
 	db 5, ZUBAT
 	db 6, GASTLY
-	db 6, GASTLY
+	db 6, MAREEP
 
 	map_id ROUTE_32
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
